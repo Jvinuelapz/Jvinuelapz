@@ -8,7 +8,7 @@
 <h2>⚡Electronics Projects:</h2>
 
 - <b>[Electronic Dice](https://github.com/Jvinuelapz/Electronic-Dice)</b>
-- <b>[2WD Mobile Robot Car](https://github.com/Jvinuelapz/Electronic-Dice)</b>
+- <b>[2WD Mobile Robot Car](https://github.com/Jvinuelapz/2WD_Mobile_Robot_Car)</b>
 
 <h2>📺 Machine Learning Projects </h2>
 
