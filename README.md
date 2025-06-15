@@ -11,6 +11,7 @@
 
 <h2>📺 Machine Learning Projects </h2>
 
+- <b>[Wildlife Detection Using DL](https://github.com/Jvinuelapz/Wildlife_Detection_DL)</b>
 
 
 <h2> 💬 Connect with me:</h2>
