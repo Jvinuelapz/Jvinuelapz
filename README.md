@@ -12,7 +12,7 @@
 <h2>📺 Machine Learning Projects </h2>
 
 - <b>[Wildlife Detection Using DL](https://github.com/Jvinuelapz/Wildlife_Detection_DL)</b>
-
+- <b>[Medical Image Classification Using CNN](https://github.com/Jvinuelapz/Chest_XRay_Classification_CNN)</b>
 
 <h2> 💬 Connect with me:</h2>
 
